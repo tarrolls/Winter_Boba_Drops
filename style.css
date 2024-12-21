@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: rgb(189, 219, 193);
+}
+
+h1{
+    text-align: center;
+    color: darkred;
+}
+
+p{
+    text-align: center;
+    color: rgba(128, 27, 27, 0.493);
+    font-family: Lucida;
+    font-size: large;
+}
+
+h3{
+    color: darkred;
+}
+
+section{
+    border-width: 10px;
+}
